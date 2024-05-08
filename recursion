@@ -1,0 +1,70 @@
+
+//using System;
+//using System.Text;
+
+
+
+//class CommandLine
+//{
+//    static void Main(String[] args)
+//    {
+//        Console.WriteLine($"first command line is {args[0]}");
+//    }
+//}
+
+
+//class callByRef
+//{
+//    class Employee
+//    {
+//        public string EmployeeName;
+//        public int EmployeeId;
+
+//    }
+
+//    class calByRef
+//    {
+//        static void Main(String[] args)
+//        {
+//            Employee emp = new Employee();
+//            emp.EmployeeName = "rutin";
+//            emp.EmployeeId = 1;
+
+//            update(emp);
+
+//            Console.WriteLine("Employee name is :" + emp.EmployeeName);
+//            Console.WriteLine("Employeeid is :" + emp.EmployeeId);
+
+
+//        }
+
+//        static void update(Employee empl)
+//        {
+//            empl.EmployeeName = "haresh";
+//        }
+
+//    }
+
+
+//}
+
+
+
+
+//StringBuilder sb = new StringBuilder("hello world");
+//Console.WriteLine(sb);
+
+//sb.Append("world", "c#");
+
+//StringBuilder sb = new StringBuilder("Hello World!");
+//sb.Replace("World", "C#");
+
+//Console.WriteLine(sb);
+
+
+
+
+
+
+
+
